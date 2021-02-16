@@ -1,1 +1,6 @@
 3
+
+
+Advertising.conf
+# > ByteDance
+hostname = -lark-frontier-hl.snssdk.com,*.amemv.com,*.snssdk.com

@@ -3,4 +3,5 @@
 
 Advertising.conf
 # > ByteDance
-hostname = -lark-frontier-hl.snssdk.com,*.amemv.com,*.snssdk.com
+# > eleme - cube.elemecdn.com
+hostname = -lark-frontier-hl.snssdk.com,*.amemv.com,*.snssdk.com,cube.elemecdn.com

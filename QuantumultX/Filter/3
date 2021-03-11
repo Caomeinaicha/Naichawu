@@ -2,6 +2,8 @@
 
 China.list
 # > Microsoft del
+# >> Microsoft Software Download del
+# >> OneDriveb del
 # >> Outlook del
 # >> Windows Server Update Services del
 # > PayPal del
@@ -11,6 +13,7 @@ IP-CIDR,182.254.116.0/24,DIRECT add
 
 Global.list
 # > Others
+twitter.jp del
 bing.com del
 
 Microsof.list

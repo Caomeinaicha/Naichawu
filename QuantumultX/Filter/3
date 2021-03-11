@@ -1,8 +1,22 @@
 3
 
 China.list
-# > Microsoft
-# > PayPal
+# > Microsoft del
+# >> Outlook del
+# >> Windows Server Update Services del
+# > PayPal del
+# Tencent
+IP-CIDR,119.28.28.28/32,DIRECT add
+IP-CIDR,182.254.116.0/24,DIRECT add
+
+Global.list
+# > Others
+bing.com del
+
+Microsof.list
+aka.ms del
+acompli.helpshift.com add
+in.appcenter.ms add
 
 Streaming.list
-# > TikTok
+# > TikTok del
